@@ -261,6 +261,7 @@ body{
     }
 
     .main-cont{
+        display: grid;
         grid-template-columns: 1fr;
     }
 }
